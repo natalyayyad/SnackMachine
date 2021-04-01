@@ -3,24 +3,24 @@
 Specifications of the Snack Machine 
 The Snack Machine has the following characteristics:
 
-•	Money Slots: the machine accepts money of the following types:
-  o	CoinSlot: There are four denominations: • 10c • 20c • 50c • $1 
-  o	CardSlot : all cards accepted
-  o	Notes Slot :20$ and 50$ only
-  o	Machine only accepts USD currency
+## Money Slots: the machine accepts money of the following types:
+  #### CoinSlot: There are four denominations: • 10c • 20c • 50c • $1 
+  #### CardSlot : all cards accepted
+  #### Notes Slot :20$ and 50$ only
+  #### Machine only accepts USD currency
   
-•	Snack Slots
-  o	The machine has five rows to display snack items.
-  o	Each row has 5 columns to pile the items.
-  o	Each column has a number.
+## Snack Slots
+  #### The machine has five rows to display snack items.
+  #### Each row has 5 columns to pile the items.
+  #### Each column has a number.
   
-•	Keypad
-Users can select the items to be purchased using a keypad.
+## Keypad
+  #### Users can select the items to be purchased using a keypad.
 
 
-#Purchase a Snack Use Case
+# Purchase a Snack Use Case
 
-Basic Flow
+## Basic Flow
 1.	This use case begins when the customer wants to purchase snacks.
 2.	The customer selects a number by pressing on the keypad. 
 3.	The VM displays a message that the snack is available for the selected number and displays its price.
