@@ -1,7 +1,6 @@
 # SnackMachine
 
 Specifications of the Snack Machine 
-The Snack Machine has the following characteristics:
 
 ## Money Slots: the machine accepts money of the following types:
   #### CoinSlot: There are four denominations: • 10c • 20c • 50c • $1 
